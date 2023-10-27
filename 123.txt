@@ -1,1 +1,1 @@
-http://github.com/noonelex/noonelex1.github.io/raw/master/putty.exe
+https://github.com/noonelex/noonelex1.github.io/blob/master/putty.exe
